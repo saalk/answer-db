@@ -8,10 +8,10 @@
 		"computed": {
 			"answeredCount": 1,
 			"currentQuestion": 2,
-			"currentPercentToPass": "10"
+			"currentPercentToPass": 10
 		},
 		"answers": [{
-			"questionId": "1",
+			"questionId": 1,
 			"answer": "a",
 			"secondsToAnswer": 10
 		}],
@@ -28,10 +28,10 @@
 		"computed": {
 			"answeredCount": 1,
 			"currentQuestion": 2,
-			"currentPercentToPass": "10"
+			"currentPercentToPass": 10
 		},
 		"answers": [{
-			"questionId": "1",
+			"questionId": 1,
 			"answer": "a",
 			"secondsToAnswer": 10
 		}],
@@ -41,7 +41,7 @@
 	}],
 	"answer": {
 		"resultId": 1,
-		"questionId": "2",
+		"questionId": 2,
 		"answer": "b",
 		"secondsToAnswer": 9
 	}
